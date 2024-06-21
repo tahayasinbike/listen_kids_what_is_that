@@ -1,16 +1,9 @@
-# listen_kids_what_is_that
+# Listen Kids: What is That?
 
-A new Flutter project.
+Mobile Application for Teaching Children Certain Sounds
 
-## Getting Started
+![Listen](https://github.com/tahayasinbike/listen_kids_what_is_that/assets/128709303/560b5082-a6c7-42b8-8aa3-e4cc0426f2d7)
 
-This project is a starting point for a Flutter application.
+In fact, the main purpose of making this application was to learn how to upload our application to platforms such as play store.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can view the application by clicking the link : https://play.google.com/store/apps/details?id=com.devast.listen_kids_what_is_that
